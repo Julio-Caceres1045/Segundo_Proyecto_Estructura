@@ -1,0 +1,8 @@
+INSTRUCCIONES:
+Cada archivo de Python puede abrirse y ejecutarse sin problemas
+Para una mejor experiencia de usuario, se deberá abrir el archivo dentro de la carpeta Estructuras llamado 
+main_window.py
+
+Este archivo es el menú de inicio por lo tanto desglosará las demás funciones restantes.
+
+GRACIAS :v
